@@ -9,4 +9,3 @@ edition = "2018"
 [dependencies]
 uuid = { version = "0.8", features = ["serde", "v4"] }
 qrcode = "0.11.0"
-image = "0.23"

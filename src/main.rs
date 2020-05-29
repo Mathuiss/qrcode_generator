@@ -1,4 +1,3 @@
-extern crate image;
 extern crate qrcode;
 extern crate uuid;
 
